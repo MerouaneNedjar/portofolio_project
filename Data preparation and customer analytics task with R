@@ -1,0 +1,31 @@
+# 🛒 Data Preparation & Customer Analytics – R | Quantium Retail Analytics  
+
+## 📌 Project Overview  
+This project analyzes **customer purchasing behavior for chips** to support a **supermarket's strategic planning for the next six months**. Using **R**, I cleaned, processed, and analyzed transaction data to uncover key sales trends and customer segments.  
+
+## 🔹 Key Steps  
+1️⃣ **Data Cleaning & Preparation**  
+   - Identified and handled **missing values, duplicates, and outliers** in transaction data.  
+   - Merged customer data with transaction records for a more comprehensive analysis.  
+
+2️⃣ **Data Analysis & Insights**  
+   - Identified key **sales drivers and purchasing trends**.  
+   - Created **data visualizations (charts & graphs)** to communicate insights effectively.  
+
+3️⃣ **Customer Segmentation & Recommendations**  
+   - Defined **customer groups** based on purchasing behavior.  
+   - Assessed **packet size relevance** to suggest optimal target segments.  
+
+## 📊 Final Deliverables  
+✔ **Cleaned & structured CSV files** for further business use.  
+✔ **Visual reports & dashboards** presenting key findings.  
+✔ **Actionable insights** to guide marketing & sales strategies.  
+
+## ⚡ Tools Used  
+✅ **R (tidyverse, dplyr, ggplot2)**  
+✅ **Data Cleaning & Preprocessing**  
+✅ **Statistical Analysis & Customer Segmentation**  
+
+
+
+🚀 **This project showcases my expertise in R, customer analytics, and data-driven decision-making.**  
